@@ -14,4 +14,4 @@ A Python tool for analyzing **first-order reaction kinetics** using **NumPy** an
 ## ✅ How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/reaction-kinetics-analyzer.git
+   git clone https://github.com/viraj-jamgaonkar/reaction-kinetics-analyzer.git
